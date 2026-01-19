@@ -10,6 +10,7 @@ def pounds_to_float(d):
     print(charge)
 
 def percent_to_float(p):
-    
+    percent_to_float.rstrip("%")
+
 
 main()
